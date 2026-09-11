@@ -1,0 +1,4 @@
+# Optional inference runtime. Install only on a host with the needed CPU/GPU support.
+ultralytics>=8.3,<9.0
+paddleocr>=2.9,<3.0
+supervision>=0.24,<1.0
